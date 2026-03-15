@@ -1,8 +1,11 @@
 # Hi, I'm JeFawk! 👨‍💻🍝  
 
-🎮 Game dev, coder, and creative chaos generator from Romania 🇷🇴. Along with my amazing waifa **[Frostnight](https://fni.art)** 🎨🖋️-an incredible artist and writer, we create Smol Spaghettorium 🧠🍝. Smol Spaghettorium is our chaotic-creative hub where we mix games, art, writing, apps, stickers, and more, into a massive mess of passion projects.
+🎮 Game dev, coder, and creative chaos generator from Romania 🇷🇴🇪🇺. Along with my amazing swedish waifa **[Frostnight](https://fni.art)** 🎨🖋️-an incredible artist and writer, we create Smol Spaghettorium 🧠🍝. 
+Smol Spaghettorium is our chaotic-creative hub where we mix games, art, writing, apps, stickers, and more, into a massive mess of passion projects.
 
-Me personally? I've been crafting games, building worlds, and smashed my CTRL+C CTRL+V keys for nearly 15 years (? 🤔). Freelancing full-time (mostly working on my own pasta projects) while being fueled by coffee ☕ and wild-dumb ideas 💡. 
+Previously worked in gamedev, banking, and healthcare. Quit to build my own stuff.
+Designing and developing games, websites, apps, and fictional worlds for ~15 years and counting (old-school lore immersion 🥰).
+I work on my own pasta projects and freelance. Most ideas are powered by coffee ☕.
 
 I guess I'm an emoji enthusiast too... 🥴
 
